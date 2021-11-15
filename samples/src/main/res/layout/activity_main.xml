@@ -35,4 +35,9 @@
         android:onClick="sample3"
         android:text="示例三：自定义子图-大盘异动" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="sample4"
+        android:text="示例四：RecyclerView中套K线图" />
 </LinearLayout>
